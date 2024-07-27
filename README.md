@@ -21,7 +21,7 @@ Fetal_Head_Detection/
 
 ## Description of Files
 
-- **test_results/**: Directory to store the results of the tests.
+- **test_results/**: Example results are stored for the reference.
 - **convolution.py**: Contains functions for applying convolution operations.
 - **draw_ellipse.py**: Includes functions for drawing ellipses on the images.
 - **feature.py**: Responsible for extracting features from the images.
@@ -54,7 +54,7 @@ Run the main script to start the fetal head detection process:
 python main.py
 ```
 
-The `main.py` script will process the `test-image.jpg` and save the results in the `test_results` directory.
+The `main.py` script will process the `test-image.jpg`.
 
 ## Steps Involved in Detection
 
@@ -67,17 +67,10 @@ The `main.py` script will process the `test-image.jpg` and save the results in t
 7. **Ellipse Fitting**: Determine the major and minor axes and fit an ellipse to the detected boundary.
 8. **Overlay and Measurement**: Overlay the fitted ellipse onto the original image to approximate the circumference of the fetal head.
 
-## Contributing
-
-Feel free to submit issues, fork the repository, and send pull requests. Your contributions are highly appreciated!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please contact me via [LinkedIn](https://www.linkedin.com/in/jay-kareliya/).
+For any questions or feedback, please contact me via [LinkedIn](www.linkedin.com/in/jay-kareliya).
 
 ---
 
