@@ -36,7 +36,7 @@ Fetal_Head_Detection/
 
 1. Clone the repository:
    ```sh
-   git clone <repository_link>
+   git clone <[repository_link](https://github.com/JayKareliya-code/Fetal_Head_Detection.git)>
    ```
 2. Navigate to the project directory:
    ```sh
