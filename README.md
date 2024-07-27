@@ -71,6 +71,7 @@ The `main.py` script will process the `test-image.jpg`.
 ## Contact
 
 For any questions or feedback, please contact me via [LinkedIn](www.linkedin.com/in/jay-kareliya).
+if not works you can copy the URL: www.linkedin.com/in/jay-kareliya
 
 ---
 
